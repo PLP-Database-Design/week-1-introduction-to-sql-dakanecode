@@ -21,19 +21,20 @@
 
 1. State and Explain the components of a DBMS(Database Management System)
 
-2. What is a relational database? Give 4 examples.
 
-3. State and Explain three classifications of SQL?
+3. What is a relational database? Give 4 examples.
 
-4. What is the difference between a Primary Key and a Foreign Key?
+4. State and Explain three classifications of SQL?
 
-5. What is an Entity-Relationship Diagram?
+5. What is the difference between a Primary Key and a Foreign Key?
 
-6. What are the advantages of relational databases?
+6. What is an Entity-Relationship Diagram?
 
-7. State four types of data type used to store data in tables?
+7. What are the advantages of relational databases?
+
+8. State four types of data type used to store data in tables?
    
-8. What is the purpose of a database management system (DBMS)?  
+9. What is the purpose of a database management system (DBMS)?  
 
 *How to edit a [markdownfile](https://www.markdownguide.org/basic-syntax/#headings)*
 
